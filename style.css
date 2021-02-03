@@ -1,0 +1,54 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #eff7e1;
+  color: #3b5360;
+
+}
+
+h1{
+  color: #1a508b;
+  font-style: italic;
+  font-size: 30px;
+}
+
+h2{
+  color: #1a508b;
+  font-size: 15px;
+}
+
+p{
+  font-size: 18px;
+}
+
+a{
+  color: #312c51;
+  text-decoration: none;
+  font-size: smaller;
+  font-style: italic;
+}
+
+a:hover{
+  color: #f0c38e;
+}
+
+.card{
+  background-color: #f6f5f5;
+  padding: 20px;
+  box-shadow: 0px 1px 1px #afccc7;
+  border-radius: 5px;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.fab{
+  font-size: 30px;
+}
